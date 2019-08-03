@@ -1,9 +1,9 @@
 <?PHP
 /*
-Akun tunggal
+Satu akun
 "u=xxxxxxxx;n=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
-Akun ganda
+Multi akun
 "u=xxxxxxxx;n=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
 "u=xxxxxxxx;n=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 */

@@ -1,12 +1,12 @@
 # caping
-bot auto claim apk caping
+bot auto claim apk caping  
+Installed  
 
-Installed
+$pkg upgrade && pkg update   
 
-$pkg upgrade && pkg update 
+$pkg install php
 
-$pkg install php\n
-$pkg install nano/n
+$pkg install nano
 
 $pkg install git
 

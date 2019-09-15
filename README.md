@@ -1,7 +1,8 @@
 # caping
 bot auto claim apk caping
 
-installed
+Installed
+
 pkg upgrade && pkg update
 pkg install php
 pkg install nano

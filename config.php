@@ -1,4 +1,4 @@
-<?PHP
+<?php
 /*
 Satu akun
 "u=xxxxxxxx;n=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
